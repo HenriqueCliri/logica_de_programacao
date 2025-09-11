@@ -1,0 +1,5 @@
+### Funções
+
+```
+    def doSomething():
+```
