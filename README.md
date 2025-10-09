@@ -23,7 +23,7 @@ Ao longo do semestre, aplicaremos os conceitos aprendidos no desenvolvimento de 
 
 ### Como Contribuir (ou Acessar)
 
-1.  **Clone o Repositório:** Use o comando `git clone https://aws.amazon.com/pt/what-is/repo/` para ter uma cópia local de todos os arquivos.
+1.  **Clone o Repositório:** Use o comando `git clone https://github.com/HenriqueCliri/logica_de_programacao` para ter uma cópia local de todos os arquivos.
 2.  **Mantenha-se Atualizado:** Use `git pull` regularmente para garantir que você tenha a versão mais recente dos materiais e requisitos.
 
 ---
